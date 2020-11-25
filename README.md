@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Karlo Zrilić Spotify Playing" width="350" />](https://open.spotify.com/user/9jjr40aybkl8wehuf35blqg22?si=LOwiuxpeSCqY1dkCaSs4CQ)
+[<img src="https://spotify-now-playing-hazel.vercel.app/api/spotify-playing" alt="Karlo Zrilić Spotify Playing" width="350" />](https://open.spotify.com/user/9jjr40aybkl8wehuf35blqg22?si=LOwiuxpeSCqY1dkCaSs4CQ)
 
 ### Connect with me:
 [<img align="left" alt="Karlo Zrilić | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
