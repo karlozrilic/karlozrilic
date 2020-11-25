@@ -38,6 +38,6 @@
 <br />
 <br />
 
-[linkedin]: www.linkedin.com/in/karlo-zrilić
-[twitter]: https://twitter.com/ZrilicKarlo
-[instagram]: https://www.instagram.com/karlo.zrilich/
+[linkedin]:www.linkedin.com/in/karlo-zrilić
+[twitter]:https://twitter.com/ZrilicKarlo
+[instagram]:https://www.instagram.com/karlo.zrilich
