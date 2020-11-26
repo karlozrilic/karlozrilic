@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Student projects mostly
 - 🌱 I’m currently learning Android development (Java, but I will also start learning Kotlin)
 - 👔 I’m currently unemployed and looking for job
-<!-- - ⚡ Fun fact: -->
+<!-- - ⚡ Fun fact: I learned React in one week and after that React Native in 2-3 weeks -->
 
 ### Spotify Playing 🎧
 
