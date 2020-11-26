@@ -1,11 +1,11 @@
 ### Hi there, I'm Karlo 👋
 
-## I'm Student, Web developer and also a bit an Android developer
+## I'm Student, Web developer and also a bit of an Android developer
 
 - 🔭 I’m currently working on Student projects mostly
 - 🌱 I’m currently learning Android development (Java, but I will also start learning Kotlin)
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 👔 I’m currently unemployed and looking for job
+[//]: <> (- ⚡ Fun fact: )
 
 ### Spotify Playing 🎧
 
