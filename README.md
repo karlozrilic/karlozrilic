@@ -12,9 +12,9 @@
 [<img src="https://spotify-now-playing-eight-lovat.vercel.app/api/spotify-playing" alt="Karlo Zrilić Spotify Playing" width="350" />](https://open.spotify.com/user/9jjr40aybkl8wehuf35blqg22?si=LOwiuxpeSCqY1dkCaSs4CQ)
 
 ### Connect with me:
-[<img align="left" alt="Karlo Zrilić | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Karlo Zrilić | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Karlo Zrilić | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Karlo Zrilić | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Karlo Zrilić | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Karlo Zrilić | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
