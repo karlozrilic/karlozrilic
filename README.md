@@ -61,4 +61,4 @@
 [postgresql]:https://www.postgresql.org/
 [git]:https://git-scm.com/
 [github]:https://github.com/
-[terminal]: https://www.google.com
+[terminal]:https://helpdeskgeek.com/help-desk/21-cmd-commands-all-windows-users-should-know/
