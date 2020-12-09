@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="Karlo Zrilić | GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=karlozrilic&show_icons=true&hide_border=true" />
+<img align="left" alt="Karlo Zrilić | GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=karlozrilic&show_icons=true&hide_border=true&theme=dark" />
 
 <br />
 <br />
