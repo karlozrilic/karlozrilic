@@ -3,7 +3,7 @@
 ## I'm Student, Web developer and also a bit of an Android developer
 
 - 🔭 I’m currently working on Student projects mostly
-- 🌱 I’m currently learning Android development (Java, but I will also start learning Kotlin)
+- 🌱 I’m currently learning Pimcore
 - 👔 I’m currently employed at [Factory](https://factory.hr/)
 <!-- - ⚡ Fun fact: I learned React in one week and after that React Native in 2-3 weeks -->
 
