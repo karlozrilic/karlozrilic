@@ -46,6 +46,8 @@
 <br />
 <br />
 
+![A](https://media.giphy.com/media/SQnc4E22ibcwok5gyY/giphy.gif)
+
 [linkedin]:www.linkedin.com/in/karlo-zrilić
 [twitter]:https://twitter.com/ZrilicKarlo
 [instagram]:https://www.instagram.com/karlo.zrilich
