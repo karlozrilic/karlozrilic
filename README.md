@@ -43,10 +43,10 @@
 
 <img align="left" alt="Karlo Zrilić | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karlozrilic&show_icons=true&hide_border=true&theme=tokyonight" />
 
-![A](https://media.giphy.com/media/SQnc4E22ibcwok5gyY/giphy.gif)
+<br />
+<br />
 
-<br />
-<br />
+![A](https://media.giphy.com/media/SQnc4E22ibcwok5gyY/giphy.gif)
 
 [linkedin]:www.linkedin.com/in/karlo-zrilić
 [twitter]:https://twitter.com/ZrilicKarlo
