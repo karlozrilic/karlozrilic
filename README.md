@@ -14,7 +14,7 @@
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/ZrilicKarlo?color=1DA1F2&logo=Twitter&style=for-the-badge) -->
 [<img align="left" alt="Karlo Zrilić | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Karlo Zrilić | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Karlo Zrilić | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Karlo Zrilić | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg#gh-light-mode-only" />][instagram]
 
 <br />
 
