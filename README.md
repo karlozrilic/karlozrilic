@@ -48,7 +48,7 @@ src="https://avatars.githubusercontent.com/u/686745" />][pimcore]
 <br />
 
 ---
-<img align="left" alt="Karlo Zrilić | GitHub Stats" src="https://media.giphy.com/media/SQnc4E22ibcwok5gyY/giphy.gif" />
+<img align="left" alt="giphy" src="https://media.giphy.com/media/SQnc4E22ibcwok5gyY/giphy.gif" />
 
 <br />
 <br />
