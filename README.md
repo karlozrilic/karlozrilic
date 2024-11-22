@@ -1,6 +1,6 @@
-# 💫 About Me:
-- 🌱 I’m currently working on projects that use Pimcore
-- 👔 I’m currently employed at [Factory](https://factory.dev)
+<> # 💫 About Me:
+<> - 🌱 I’m currently working on projects that use Pimcore
+<> - 👔 I’m currently employed at [Factory](https://factory.dev)
 
 
 ## 🌐 Socials:
